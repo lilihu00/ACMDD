@@ -1,2 +1,3 @@
 # ACMDD
-"![Image info](../img/aliogn_targets_uniprot.png)"
+
+![Alt text](/posts/path/to/img/align_targets_uniprot.png)
